@@ -268,11 +268,6 @@ If this roadmap helps you, feel free to fork the repository, open an issue, or s
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 <div align="center">
 
