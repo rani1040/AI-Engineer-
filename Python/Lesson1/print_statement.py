@@ -1,0 +1,5 @@
+print("Hello")
+print(5+6)
+print("hello","rani")
+print("hello", end="")
+print("rani")
